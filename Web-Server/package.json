@@ -1,0 +1,22 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "Web server for the remotely hosted server on 2250's Bachand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thorres/remote-ubuntu-server.git"
+  },
+  "author": "Simon Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thorres/remote-ubuntu-server/issues"
+  },
+  "homepage": "https://github.com/Thorres/remote-ubuntu-server#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
